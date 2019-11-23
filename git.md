@@ -13,4 +13,5 @@ To treat git repository  as normal folder just delete the .git folder(Hidden) in
 
 `git cofig --globla user.name "<Name>"` to add name
 
-`git commit -m <Message>` to commit with message
+`git commit -m <Message>` to commit with message    
+`git checkout -b <branch name>` to create and switch to branch
